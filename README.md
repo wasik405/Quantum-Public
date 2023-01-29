@@ -1,4 +1,4 @@
-# information
+# Information
 
 **This is the source code of [Quantum](https://dsc.gg/quantumbots)**
 
