@@ -15,4 +15,4 @@
 - State changes ⓘ
 - Same license License and copyright notice ⓘ
 
-> **Note:** If you are found to be violating any of the above [stated rule]([https://github.com/wasik405/quantum_public/new/main#permissions-and-limitation](https://github.com/wasik405/quantum_public/wiki/Source-Code-Rules)) you might be asked to takedown your bot.
+> **Note:** If you are found to be violating any of the above [Stated Rule](https://github.com/wasik405/quantum_public/wiki/Source-Code-Rules) you might be asked to takedown your bot.
