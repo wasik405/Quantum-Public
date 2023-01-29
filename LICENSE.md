@@ -1,4 +1,4 @@
-# **License For Quantum_Public**
+# **License For Quantum Public**
 
 # Permissions and limitation      
 
