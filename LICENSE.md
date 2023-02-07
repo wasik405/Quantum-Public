@@ -17,4 +17,5 @@
 
 > **Note:** If you are found to be violating any of the above [Stated Rule](https://github.com/wasik405/quantum_public/wiki/Source-Code-Rules) without permission you might be asked to takedown your bot.
                                                                                                                ![repl.it](https://o.remove.bg/downloads/2fa89b03-656f-4ef1-8dfd-1b8dcff6f306/download-removebg-preview.png)
+                                                                                                               
 ![github_logo](https://o.remove.bg/downloads/621cbd1c-37db-431e-87da-d935a6c93661/images-removebg-preview.png) 
