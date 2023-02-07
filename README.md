@@ -20,4 +20,4 @@ const require ("coming soon");
 
 # License
 
-**Code license located at [license.md](LICENSE.md)**
+**Code license located at [license.md](LICENSE.md)**.
